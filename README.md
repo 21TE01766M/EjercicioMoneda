@@ -33,3 +33,5 @@ Se requiere un programa en Java para convertir una cantidad de dinero en otros t
  
  
  ## Etapa 03. Diseño la solución
+ ![](https://github.com/21TE01766M/EjercicioMoneda/blob/master/Diagrama%20de%20clases.png)
+ 
